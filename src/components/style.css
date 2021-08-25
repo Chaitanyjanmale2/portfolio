@@ -1,0 +1,43 @@
+.rounded-circle{
+    width: 15%;
+}
+.bg{
+    background-color: black;
+    
+    
+} 
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+   
+}
+.text{
+    color: gold;
+}
+.colr{
+    color: gold;
+}
+@media (min-width:992px) {
+  .aboutme{
+    width: 100%;
+   
+}  
+
+
+
+
+}
+@media (min-width:1200px) {
+    .aboutme{
+      width: 50%;
+     
+  } 
+  
+
+  
+  }
+
+  @media (min-width:700px){
+    
+  }
