@@ -2,12 +2,13 @@ import React from 'react';
 import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 import stremsnap from "./stremsnap.png";
 import quotesnap from "./quotesnap.PNG"
+import './style.css'
 const Projects =()=>{
 return(
-    <div  className="row text-light">
-       <div className="container  ">
+    <div  className="row  text-light">
+       <div className="container ">
           
-           <div className="col mb-3  border border-warning"><img src={quotesnap} className="img-fluid" alt="img"/>
+           <div className=" topmar col  mb-3   border border-warning"><img src={quotesnap} className="img-fluid" alt="img"/>
                <div>
                   <h2 className="text text-center">QUALITY QUOTES</h2>
                    <h4 className="text-center">This is simple reactjs app bild with react hooks and two apis one unspalsh api and one random quote api(also Bootstrap is used) </h4>

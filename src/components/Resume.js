@@ -10,7 +10,7 @@ const Resume =()=>{
  
     
 return(
-    <div className="row  text-center">
+    <div className="row mt-5 text-center">
         
         <div className="container  ">
      <div className=" col " style={{height:"400px"}}>

@@ -18,6 +18,9 @@ body{
 .colr{
     color: gold;
 }
+.topmar{
+    margin-top: 20px;
+}
 @media (min-width:992px) {
   .aboutme{
     width: 100%;
