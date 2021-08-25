@@ -6,6 +6,9 @@
     
     
 } 
+.topmar{
+    margin-top: 65%;
+} 
 
 body{
     font-family: 'Roboto', sans-serif;
@@ -18,9 +21,7 @@ body{
 .colr{
     color: gold;
 }
-.topmar{
-    margin-top: 20px;
-}
+
 @media (min-width:992px) {
   .aboutme{
     width: 100%;
