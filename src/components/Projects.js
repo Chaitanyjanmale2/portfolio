@@ -5,6 +5,7 @@ import quotesnap from "./quotesnap.PNG"
 import './style.css'
 const Projects =()=>{
 return(
+   
     <div  className="row  text-light">
        <div className="container topmar ">
           
