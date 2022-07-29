@@ -14,9 +14,7 @@ const Resume = () => {
 
             <div className="container  ">
                 <div className=" col " style={{ height: "400px" }}>
-                    <div style={{ height: "350px" }}> <iframe className="embed-responsive-item" width="100%" height="100%" src="https://drive.google.com/file/d/1Yyw7dPu-hV1S0igYcJT25MBq7AO_67GY/view?usp=sharing" allowFullScreen allow="autoplay">
-
-                    </iframe></div>
+                    <div style={{ height: "350px" }}> <iframe src="https://drive.google.com/file/d/1Yyw7dPu-hV1S0igYcJT25MBq7AO_67GY/preview" width="640" height="480" allow="autoplay"></iframe></div>
 
 
 
