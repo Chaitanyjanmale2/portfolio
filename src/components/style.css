@@ -1,5 +1,8 @@
 .rounded-circle{
-    width: 15%;
+    border:1px solid;
+border-radius:50%;
+width:25%;
+height:100%;
 }
 .bg{
     background-color: black;
